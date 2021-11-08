@@ -159,7 +159,7 @@ if (screen.width < 600) {
     imagen.style.width = "99vw";
     imagen.style.height = "70vh";
     img_mobile.hidden = false;
-    img_mobile.src = "mobile_background.PNG";
+    img_mobile.src = "https://github.com/Neyfer/Portfolio/blob/main/docs/mobile_background.PNG";
     img_mobile.style.objectFit = "cover";
     type();
     window.addEventListener('scroll', () => {
