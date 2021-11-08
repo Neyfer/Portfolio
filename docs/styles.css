@@ -492,4 +492,14 @@ body {
     .contact-t {
         height: 30vh;
     }
+    #game {
+    height: 15%;
+    width: 28%;
+    z-index: 20;
+    position: absolute;
+    margin-top:10%;
+    }
+.btn-p-game {
+    left: 40%;
+}
 }
