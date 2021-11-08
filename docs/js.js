@@ -116,22 +116,22 @@ projects.forEach(p => {
 });
 if (screen.width > 600) {
     window.addEventListener('scroll', () => {
-        if (scrollY > 250) {
+        if (scrollY > 484) {
             project_t.animation = "appear 3s"
             project_t.style.opacity = "1";
         }
-        if (scrollY > 500) {
+        if (scrollY > 485) {
             projects.forEach(pro => {
                 pro.style.animation = "appear 4s";
                 pro.style.opacity = "1";
             })
         }
 
-        /*if (scrollY > 920) {
+        /*if (scrollY > 1048) {
             skill_container.style.animation = "appear 2s";
             skill_container.style.opacity = "1"
         }*/
-        if (scrollY > 1015) {
+        if (scrollY > 1048) {
 
             skill.forEach(s => {
                 s.style.animation = "skill 3s cubic-bezier(0.4, 0, 0, 1.73)";
@@ -140,7 +140,7 @@ if (screen.width > 600) {
             })
         }
 
-        if (scrollY > 1300) {
+        if (scrollY > 1390) {
             con.style.animation = "appear 4s";
             con.style.opacity = "1";
         }
