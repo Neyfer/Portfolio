@@ -29,7 +29,7 @@ const contact_header = document.getElementById("Contact");
 
 let o_frase = 1;
 
-
+type();
 
 scrollTo(0, 0);
 
