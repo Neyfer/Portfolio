@@ -29,7 +29,6 @@ const contact_header = document.getElementById("Contact");
 
 let o_frase = 1;
 
-type();
 
 scrollTo(0, 0);
 
@@ -39,12 +38,12 @@ window.addEventListener("scroll", () => {
     }
 })
 
-if (window.location.href == "http://localhost/docs/thanks.html") {
+if (window.location.href == "https://neyfer.github.io/Portfolio/thanks.html") {
     type_thanks();
 }
 
 if (screen.width > 600) {
-    if (window.location.href == "http://localhost/docs/") {
+    if (window.location.href == "https://neyfer.github.io/Portfolio/") {
         type();
     }
 }
