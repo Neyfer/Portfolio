@@ -15,7 +15,7 @@ const skill_container = document.querySelector(".skills");
 //header
 const home = document.getElementById("home");
 let thanks = document.getElementById("thank");
-let thanks_frase = "thank you, your message has been sent..."
+let thanks_frase = "thank you, your message has been sent, I will reply to you as soon as I can..."
     //VIDEO
 const video = document.getElementById("video_container");
 const imagen = document.getElementById("image");
