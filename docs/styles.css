@@ -441,8 +441,17 @@ body {
         left: 20%;
     }
     .about {
-        height: 25vh;
+        height: 54vh;
     }
+    
+    .about-title{
+    font-size: 12vw;
+    }
+    
+    .about-paragraph{
+    font-size: 6vw;
+    }
+    
     #video_container {
         width: 185vw;
     }
