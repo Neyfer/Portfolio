@@ -457,8 +457,17 @@ body {
     }
     
     .te1{
-    margin-top: -30px;
-        margin-bottom:-100px;
+        position: relative;
+        top: 21px;
+    }
+    
+    .subject{
+        position: relative;
+        top: -4px;
+    }
+    
+    .form-container{
+       margin-top: -15%;
     }
     
     #video_container {
