@@ -456,6 +456,10 @@ body {
         width: 72.3vw;
     }
     
+    #email{
+    margin-top: -3px;
+    }
+    
     #video_container {
         width: 185vw;
     }
