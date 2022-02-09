@@ -452,6 +452,10 @@ body {
     font-size: 6vw;
     }
     
+    .textbox{
+        width: 72.3vw;
+    }
+    
     #video_container {
         width: 185vw;
     }
