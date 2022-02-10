@@ -444,6 +444,10 @@ body {
         height: 70vh;
     }
     
+    #submit{
+        font-size: 5vw;
+    }
+    
     .about-title{
     font-size: 12vw;
     }
